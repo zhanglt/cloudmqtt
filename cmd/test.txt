@@ -1,0 +1,4 @@
+level=INFO ts=2020-12-22T08:39:09.001Z app=AppFunctionsSDK source=sdk.go:253 msg="Configuration and logger successfully initialized"
+level=ERROR ts=2020-12-22T08:39:09.004Z app=AppFunctionsSDK source=mqtt.go:65 msg="mqtt mqttInstanceForCloud LoadX509KeyPair failed: open ./certificate.pem: The system cannot find the file specified."
+level=INFO ts=2020-12-22T08:40:48.277Z app=AppFunctionsSDK source=sdk.go:253 msg="Configuration and logger successfully initialized"
+level=ERROR ts=2020-12-22T08:40:48.278Z app=AppFunctionsSDK source=mqtt.go:88 msg="mqtt mqttInstanceForCloud Connect failed: Network Error : dial tcp: address [serverName]: missing port in address"
